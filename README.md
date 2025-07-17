@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shreyas K U!<br>I'm a passionate Full Stack Developer with a focus on building efficient and user-friendly applications. With expertise in the MERN stack and a background in UI/UX design, I create seamless digital experiences. My projects range from web applications like Prescripto for doctor consultations to innovative tools like LogicLink AI. I’m always eager to learn new technologies, especially in the fields of ethical hacking and generative AI. Let's collaborate and create something amazing!<br><br>
+Hi, I'm Shreyas K U!<br>I love using code to bring ideas to life. I’ve had fun building a whole range of things. For example, I built a stock trading website called Kandl and a vacation rental site called Elite Stays. I even took on a challenge to help farmers by creating Dharani, a program that predicts the best crop to plant based on years of weather data. Basically, if you have an idea for an app, I can help you build it. Right now, I'm excited to be learning more about AI and Machine Learning.<br><br>
 
 
 ## 🌐 Socials:
